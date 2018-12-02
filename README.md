@@ -6,7 +6,7 @@
 <br/>* forged and real folders contain dataset for this project in form of real and forged images respectively
 <br/>* training folder will save the trained images
 
-<br/>Images are stored in the format : <b>XXXYYY_ZZZ</b>
+<br/>Images are stored in the format : <b>XXXZZZ_YYY</b>
 <br/>XXX denotes id of the person who has signed on the document(ex -001)
 <br/>ZZZ denotes the id of the person to whom the sign belongs in actual(ex- 001)
 <br/>YYY deontes the n'th no.of attempt

@@ -11,6 +11,6 @@
 <br/>ZZZ denotes the id of the person to whom the sign belongs in actual(ex- 001)
 <br/>YYY deontes the n'th no.of attempt
 
-<br/>Now if <b>XXX == YYY </b>then image is <b>genuine</b> otherwise the signature is forged
+<br/>Now if <b>XXX == ZZZ </b>then image is <b>genuine</b> otherwise the signature is forged
 
 
